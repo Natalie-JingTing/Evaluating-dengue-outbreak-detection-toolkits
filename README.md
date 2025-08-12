@@ -1,4 +1,4 @@
-# Evaluating-dengue-outbreak-detection-toolkits
+# Evaluating dengue outbreak detection toolkits
 The model, code, and data required to replicate the results from the dissertation project undertaken by Ng Jing Ting (Natalie) from Imperial College London, supervised by Prof. Robert Verity, Prof. Nuno Faria, and Prof. Swapnil Mishra.
 
 The repository contains the following items:
